@@ -4,4 +4,7 @@
  // Examples of PaaS; Gooogle Cloud Engine, Heroku, Elastic Beanstalk (AWS)
  
  ## SaaS (Software as a Service)
- // 
+ // Is a way companies deliver applications or software over the internet to the end user.
+// Now with using a SaaS product, everything is already managed for you.
+// You do not have to manage anything at all. The service provider manages everything from the application, the data, the runtime, 
+   the middleware, the operating system,the virtualization, servers, storage, and networking.
