@@ -1,0 +1,6 @@
+Cloud can be servers in a data venter
+Cloud computing is the delivery of computing services over the internet
+AWS has several compute services like EC2 and Lambda
+To maximize the use of their servers, AWS allows you to share their servers through virtualization.
+ * Virtualization - divide hardware resources on a single physical server into smaller units referred to as virtual machines
+Usage is metered like power companies; on-demand and pay-as-you-ago
