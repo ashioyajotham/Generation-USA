@@ -8,5 +8,31 @@
 // Now with using a SaaS product, everything is already managed for you.
 // You do not have to manage anything at all. The service provider manages everything from the application, the data, the runtime, 
    the middleware, the operating system,the virtualization, servers, storage, and networking.
+   Examples: Zoom, MailChimp(email marketing service), Dropbox, Slack etc
    
-  Examples: Zoom, MailChimp(email marketing service), Infrustructure, Dropbox, Slack etc
+   
+## IaaS (Infrasctructure as a Service)
+// A form of computing service that provides virtualized computing services over the internet to its users
+   Virtualization uses software to create abstract layer over a computer hardwware
+// The user is responsible to run the Application, Data, Runtime, middleware, OS while the service provider manages virtualization, servers, storage and networking
+// Examples: AWS, Microsoft Azure and GCP
+
+
+## FaaS (fuinction as a Service)
+// A foem of cloud computing service that allows you to execute code in response to events
+// The user only manages application while the rest is managed by service provider (Data to Network)
+Wxample: Google Cloud Functions, Azure Functions, AWS Lambda
+
+
+
+#### Server
+// A computer or device that provides programmable service to another computer program and its user
+  
+  Types of Servers
+   Database servers
+   App servers
+   Web Servers
+   
+   
+#### Serverless
+// A cloud computing execution model in which the cloud provider allocates machine resources on demand
