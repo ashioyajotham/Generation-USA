@@ -1,0 +1,35 @@
+# A region is a physical location
+# A region is a collection of AZs
+# AWS logically groups its regions into geographical locations.
+# When deploying an app you want to deploy it in the nearest geographical locations to improve user experience
+
+
+##################### Region Charactersistics ##########################
+<Fully independent and isolated>
+* If one region is impacted, others will not be.
+
+<Resource and Service Specific>
+* Regions are isolated and resources aren't automatically replicated across them
+
+
+
+#################### Availability Zones (AZs)######################
+* Consist of one or more physically separated data centers each with redundant power, networking and connectivity housed in separate facilities eg Ohio (3 AZs)
+NOTE: AZs have multiple data centers
+
+### Charcatersistics of AZs
+  * Physically separated links
+  * Connected through low latency links
+  * Allow fault tolerant
+  * Allow for high availability - when you distribute across multiple AZs, one zone fails the app still runs (multi-deployment)
+  
+ 
+######################## Edge Zones ##############################
+* Think of it as a mini data center. They cache content for fast delivery to users through Amazon Cloudfront and Content Delivery Network
+* There can be more edge zones than AZs
+* Reduced latency
+   Latency - amount of time it takes for your website to load
+             High latency - bad
+             Low latency - good
+             
+  
