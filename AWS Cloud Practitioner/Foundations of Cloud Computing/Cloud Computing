@@ -60,4 +60,19 @@ iii) Hybrid Cloud
  * AWS provides tools so that they can talk to each other through AWS Direct Connect
  
  
+
+############# Benefits of Cloud Computing
+* High Availability:
+// A high availability system is one that operates continuously without failure. Such systems avoid loss of service by managing failures.
+
+Elasticity: 
+//This is where you provision services based on demand. With this, you don’t have to plan ahead of time.
+
+Agility:
+// AWS helps you innovate faster giving you speed.
+
+Durability:
+// This refers to data protection and AWS gives you long term data protection.
+
+ 
               
