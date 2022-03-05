@@ -4,3 +4,59 @@ AWS has several compute services like EC2 and Lambda
 To maximize the use of their servers, AWS allows you to share their servers through virtualization.
  * Virtualization - divide hardware resources on a single physical server into smaller units referred to as virtual machines
 Usage is metered like power companies; on-demand and pay-as-you-ago
+
+
+
+               ################## Cloud Computing Models ############################
+               
+There are  basic models:
+ *Saas
+ *Paas
+ *Iaas
+ 
+ 
+ ### IaaS
+ <Building blocks>
+ * Fundamental building blocks that can be rented. 
+ Eg: <Web hosting>
+ Monthly sub to have your website hosted
+ 
+ 
+ ### SaaS
+  <Complete application>
+ * Complete application that someone offers too users
+ 
+  Eg: <Email provider> 
+ * Your personal email you access through a web browser is SaaS
+ 
+ 
+ ### PaaS
+   <Used by Developers>
+ * Develop software using web-based tools without worrying about the underlying infrastructure
+ 
+ Eg: <Storefront Website>
+ * Tools provided to build a storefront application that runs on another company's server
+ 
+ 
+
+
+              ############# Cloud Deployment Models ##########################
+              
+ i) Private Cloud / On-premises
+ * Internal data center. Internal data center + local network
+ * Doesn't offer the advantages of cloud computing
+ * Increased level of security and no sharing of resources using virtualization unlike the others.
+ 
+ii) Public Cloud
+ * This is AWS
+ * You aren't responsible for the physical hardware
+ * You also gain increased increased security and virtualization.
+ * Massive economies of scale
+ 
+iii) Hybrid Cloud
+ * Combo of public + private
+ * Higly sensitive data stored locally while web application runs on AWS
+ * AWS provides tools so that they can talk to each other through AWS Direct Connect
+ 
+ 
+              
