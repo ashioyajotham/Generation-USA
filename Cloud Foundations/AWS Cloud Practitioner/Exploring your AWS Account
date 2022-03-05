@@ -1,0 +1,28 @@
+   * AWS Management Console
+   * Root User
+      // Power of the root user
+      // Protect the root user
+   * AWS Command Line Interface (CLI)
+   * Review
+   
+
+############# AWS Management Console / The Console
+* Allows you to access your AWS account annd manage applications running in your account from a web browser
+
+
+############### Root User
+* Created when you initially sign up for your account. Has multi-factor authentification (best practice)
+* Has unrestricted access to the account
+
+
+################ AWS CLI / The CLI
+* Allows you to access your AWS accountthrough a terminal or command window
+* New features are rolled through the CLI. It is mainly used ny devs
+
+        #### Programmatic Access
+        * CLI
+        * SDK
+        * Application Code
+
+
+
