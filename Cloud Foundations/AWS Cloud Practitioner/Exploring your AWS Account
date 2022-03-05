@@ -16,13 +16,17 @@
 
 
 ################ AWS CLI / The CLI
-* Allows you to access your AWS accountthrough a terminal or command window
-* New features are rolled through the CLI. It is mainly used ny devs
+* Allows you to access your AWS account through a terminal or command window
+* New features are rolled through the CLI. It is mainly used by devs
 
-        #### Programmatic Access
+        #### Programmatic Access 
+        // Provides access to your AWS resources through an application or a tool like the CLI
         * CLI
         * SDK
         * Application Code
+        
+        
+
 
 
 
