@@ -1,6 +1,6 @@
  ## PaaS (Platform as a Service)
  // A service that offers a complete development and deployment in the cloud. The customer manages the application and data on a platform while the service provider
-   provides the runtime, middleware, virtualization, OS, servers, storage, networking. You only worry aout deploying your app to the end user while evrything else is taken care of
+   provides the runtime, middleware, virtualization, OS, servers, storage, networking. You only worry about deploying your app to the end user while evrything else is taken care of
  // Examples of PaaS; Gooogle Cloud Engine, Heroku, Elastic Beanstalk (AWS)
  
  ## SaaS (Software as a Service)
