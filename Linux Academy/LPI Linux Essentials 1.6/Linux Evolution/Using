@@ -1,0 +1,50 @@
+whoami
+man
+last
+clear
+
+
+Using the Command Line
+Introduction
+
+Connect to the Remote Server
+
+    Open your terminal application, and run the following command (remember to replace <PUBLIC_IP> 
+     with the public IP you were provided on the lab instructions page):
+
+    ssh cloud_user@<PUBLIC_IP>
+
+    Enter yes at the prompt.
+    Enter your cloud_user password at the prompt.
+
+Run Some Commands
+
+    Run the following commands and note their output:
+
+    whoami
+
+    ls
+
+    Note: files have been added to the instance so you can see sample output.
+
+    pwd
+
+    last
+
+    uptime
+
+    Add man to the front of the whoami command, and run it again.
+
+    man whoami
+
+    Press q to exit the man page.
+
+    Repeat steps 2 and 3 with the following commands:
+
+    man ls
+
+    man pwd
+
+    man last
+
+    man uptime
