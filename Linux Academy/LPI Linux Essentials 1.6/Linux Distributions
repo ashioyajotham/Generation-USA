@@ -1,0 +1,22 @@
+### Linux Distribution
+* Refers to a collection of components that form a system. check it through "lsb_release -a"
+
+#### Hardware
+* Physical device used as a compute resource. In some cases it can be virtual
+
+#### Linux Kernel
+* Is a free and open-source operating system kernel. It is the framework that connects the application layer to the hardware.
+* Hardware is incorporated into the file hierarchy through the /dev and /sys directories and process information is mapped into /proc.
+You can check the kernel through "uname -r"
+
+
+#### GNU Core Utilities
+* Basic file,shell and text manipulation of the GNU OS eg set and change file operations. Command "ls --version"
+
+
+##### X Server
+* Framework for GUI environment. Command "Sudo X-version"
+
+
+#### GUI
+* Desktop environment eg Gnome
