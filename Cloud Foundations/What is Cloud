@@ -45,7 +45,7 @@ Wxample: Google Cloud Functions, Azure Functions, AWS Lambda
 // A cloud computing execution model in which the cloud provider allocates machine resources on demand
 
 
-#### Cloud computingg deployment models
+#### Cloud computing deployment models
   Cloud
   Hybrid
-  On-Premises
+  On-Premises - dedicated reources
