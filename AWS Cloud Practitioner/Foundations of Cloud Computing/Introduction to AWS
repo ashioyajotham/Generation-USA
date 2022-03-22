@@ -1,7 +1,7 @@
 * A web service is an application that provision itself over the internet. I/O dataset
 * AWS is a cloud platform that offers a broad set of global cloud-based products
 * AWS offers on-demand access to compute, storage, database and other IT services
-* Ways to interact with AWS
+* Ways to interact with AWS (core AWS)
   - AWS CLI
   - AWS Management Console
   - SDKs (Software Development Kits)
