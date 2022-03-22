@@ -1,10 +1,16 @@
- ## PaaS (Platform as a Service)
+* Cloud computing - on-demand delivery of compute power, database, storage, applications and other IT resources via the internet with pay-as-you-go pricing
+
+
+*********************Cloud Service Models**********************************
+
+## PaaS (Platform as a Service)
  // A service that offers a complete development and deployment in the cloud. The customer manages the application and data on a platform while the service provider
    provides the runtime, middleware, virtualization, OS, servers, storage, networking. You only worry about deploying your app to the end user while evrything else is taken care of
  // Examples of PaaS; Gooogle Cloud Engine, Heroku, Elastic Beanstalk (AWS)
  
  ## SaaS (Software as a Service)
  // Is a way companies deliver applications or software over the internet to the end user.
+ // Complete product
 // Now with using a SaaS product, everything is already managed for you.
 // You do not have to manage anything at all. The service provider manages everything from the application, the data, the runtime, 
    the middleware, the operating system,the virtualization, servers, storage, and networking.
@@ -14,6 +20,7 @@
 ## IaaS (Infrasctructure as a Service)
 // A form of computing service that provides virtualized computing services over the internet to its users
    Virtualization uses software to create abstract layer over a computer hardwware
+// More control over IT resources
 // The user is responsible to run the Application, Data, Runtime, middleware, OS while the service provider manages virtualization, servers, storage and networking
 // Examples: AWS, Microsoft Azure and GCP
 
@@ -36,3 +43,9 @@ Wxample: Google Cloud Functions, Azure Functions, AWS Lambda
    
 #### Serverless
 // A cloud computing execution model in which the cloud provider allocates machine resources on demand
+
+
+#### Cloud computingg deployment models
+  Cloud
+  Hybrid
+  On-Premises
