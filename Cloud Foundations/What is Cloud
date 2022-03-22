@@ -25,7 +25,7 @@
 // Examples: AWS, Microsoft Azure and GCP
 
 
-## FaaS (fuinction as a Service)
+## FaaS (function as a Service)
 // A foem of cloud computing service that allows you to execute code in response to events
 // The user only manages application while the rest is managed by service provider (Data to Network)
 Wxample: Google Cloud Functions, Azure Functions, AWS Lambda
@@ -55,7 +55,7 @@ Wxample: Google Cloud Functions, Azure Functions, AWS Lambda
 i) Trade capital expense for variable expense (COPEX)
    - Pay for what you consume
    - Data center investment based on forecast
-ii) Benefits of massive economies off scale
+ii) Benefits of massive economies of scale - resulting from severaal cloud services
 iii) Stop guessing capacity
 iv) increased speed and agility
 v) Stop spending money on running and maintaining data centers
