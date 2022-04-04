@@ -1,0 +1,17 @@
+// AWS region is a geo location with or more avalaibility zones
+// Availability Zones - a fully isolated partition of the AWS infrastructure. It consists of one or more discrete data centers
+// Data replication to reduce inconvenience
+
+Factors to consider when selecting the optimal region
+* Data governance / legal requirements
+* Proximity to customers (latency)
+* Services within the region
+* Costs - vary by region
+
+
+**********AWS Data Centers*******************
+
+*********AWS Infrastructure features******************:
+// Elasticity and scalabilty
+// Fault-tolerance
+// High availability
