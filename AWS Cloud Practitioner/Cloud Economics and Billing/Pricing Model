@@ -1,0 +1,4 @@
+The three fundamental drivers of cost with AWS:
+    * Compute - charged per hour/second. Varies by instance type
+    * Storage - charged per GB
+    * Data transfer - charged per GB. Inbound has no charge. Outbound is aggregated
