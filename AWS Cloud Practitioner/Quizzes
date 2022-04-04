@@ -1,0 +1,9 @@
+Options available for reserved instances
+// Reserved Instance - reserve an instance for one or three year term and in turn receive a significant discount compared to the on-demand instance
+
+ * AURI (All Upfront Reserved Instance)
+ * NURI (No Upfront Reserved Instance)
+ * PURI (Partial Upfront Reserved Instance)
+ 
+ 
+ // Amazon Cost Explorer gives you more details about Amazon EC2 billing that took place three months ago
