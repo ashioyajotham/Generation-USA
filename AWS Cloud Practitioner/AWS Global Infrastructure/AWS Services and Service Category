@@ -1,0 +1,17 @@
+########## Infrastructure ##################
+* Regions
+* Availability Zones
+* Edge Locations
+
+############ Applications ####################
+* Virtual desktops
+* Collaboration and sharing
+
+
+########### Platform Services ##################
+* Databases - NoSQL, caching, relational
+* Analytics - cluster computing, data warehouses, data workflows, real-time
+* Application services - queueing, orchestration, app streaming, transcoding, email, search
+* Deployment and management - containers, devops tools, resource templates, usage tracking, monitoring and logs
+* Mobile services - identity, sync, mobile analytics, notifications
+* Foundation services - compute (virtual, auto-scaling and load balancing), networking, storage(object, block and archive)
