@@ -1,1 +1,6 @@
-
+Depend on programming languages and frameworks
+Examples:
+Java - ant, maven, gradle
+JS - npm, grunt, gulp
+Make - widely used in unix-based systems
+Packer - build machine images and containers
