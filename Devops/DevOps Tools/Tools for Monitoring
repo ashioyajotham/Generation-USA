@@ -1,0 +1,21 @@
+Collecting and presenting data about the state and performance of applications
+There are three different types of monitoring
+    Infrastructure monitoring - focuses on infrastructure eg CPU
+    Application Performance Monitoring - focuses on performance and stability of individual parts of an application eg response time, logs
+    
+ // Infrastructure Monitoring
+ Examples:
+   Sensu
+   NewRelic
+   
+   
+// Application Performance Monitoring
+Examples:
+    AppDynamics
+    NewRelic
+    
+    
+// Aggregation and Analytics - collecting monitoring data and doing something with it
+                             - Most monitoring tools have aggregation and analytics features
+Examples:
+     Elastic Stack
