@@ -6,3 +6,5 @@
 * Reliable rollbacks
 * Fearless deployments
 *
+
+N/B: there is no standard deployment period though some prefer after every code commit
