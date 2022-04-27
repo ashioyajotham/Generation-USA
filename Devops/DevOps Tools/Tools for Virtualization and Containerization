@@ -1,0 +1,8 @@
+* Virtualization - VMs
+* Virtualization tools make use of hypervisors. Examples:
+    /Microsoft Hyper-V
+    /VMWare ESX and ESXi
+ 
+ 
+ * Containerization - next step beyond virtualization. Require fewer resources. Only simulates the OS
+                    - Primary container tech: docker
