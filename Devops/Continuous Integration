@@ -1,0 +1,9 @@
+* when a dev commits a code change, the CI server sees the change and automatically performs a build also executing automated tests
+* If there is a build the CI server automatically informs the developer
+
+# Benefits
+* Early detection of certain bugs early
+* Makes continuous testing possible
+* Encourages good coding practices
+
+
