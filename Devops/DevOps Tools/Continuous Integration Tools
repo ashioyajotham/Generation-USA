@@ -1,0 +1,5 @@
+* Continuously merging code into a single branch or mainline
+Examples:
+   Jenkins (Java servlet-based), open source
+   TravisCI (open source)
+   Bamboo (enterprise)
