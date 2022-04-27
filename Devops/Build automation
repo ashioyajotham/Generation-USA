@@ -1,0 +1,2 @@
+* Automation of the process of preparing code for live deployment. It is independent of an IDE
+* Usually, build automation looks like running a command-line tool that builds code using configuration files or scripts that are treated as part of the source code
