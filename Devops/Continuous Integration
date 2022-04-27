@@ -5,5 +5,7 @@
 * Early detection of certain bugs early
 * Makes continuous testing possible
 * Encourages good coding practices
+* eliminates pre-release scramble
+* Early detection of integration problems
 
 
