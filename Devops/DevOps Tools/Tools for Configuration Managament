@@ -1,0 +1,16 @@
+* Managing and changing the state of pieces of infrastructure in a consistent and manageable way
+* Are a great way to implement Infrastructure as Code
+Examples:
+    Ansible
+        /open source
+        /Declarative configuration
+        /Uses YAML
+        /Does not require control server
+        /No agents required just Py and ssh
+        
+     
+     Puppet     
+     Chef
+     Salt
+     
+        
