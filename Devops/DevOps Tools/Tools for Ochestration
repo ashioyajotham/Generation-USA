@@ -1,0 +1,10 @@
+* Orchestration - automation that supports processes and workflows, such as provisioning resources
+* Orchestration allows us to do things like:
+    /scale up and down applications
+    /auto-scale applications based on usage
+    / create self-healing systems by spinning down unhealthy nodes and replacing them with new ones
+    
+Examples:
+  Docker Swarm
+  Kubernetes
+  Terraform
