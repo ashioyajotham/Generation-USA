@@ -5,6 +5,11 @@ Options available for reserved instances
  * NURI (No Upfront Reserved Instance)
  * PURI (Partial Upfront Reserved Instance)
  
+ // A company is migrating its workloads to AWS. 
+   Which tool will help the company estimate their potential cloud bill and calculate their overall total cost of ownership (TCO) based on their current workloads?
+   * AWS Pricing Calculator. The Pricing Calculator provides an estimate of AWS fees and charges. 
+    Since the company knows the workload details, the AWS Pricing Calculator can also help with calculating the total cost of ownership.
+    
  
  // Amazon Cost Explorer gives you more details about Amazon EC2 billing that took place three months ago
  
@@ -33,6 +38,10 @@ Options available for reserved instances
  // In order to improve fault tolerance, you would like to begin using services that provide fault tolerance. 
     Which AWS services provide automatic replication across Availability Zones?
    * DynamoDB
+   
+
+// By default, all data stored in S3 is not viewable by the public. If you want a bucket or object to be accessible by the public, you must explicitly make it so. 
+   NAT gateways and internet gateways are needed to allow communications between VPCs and the internet, but they are not required when it comes to S3
    
  // Trusted advisor - provides you with real-time guidance to help you provision your resources following AWS best practices.
                     -  can help you optimize your AWS environment by giving recommendations to reduce cost, increase performance, and improve security
@@ -69,3 +78,48 @@ Options available for reserved instances
   
   
 // A bucket access policy can be attached directly to an S3 bucket to limit access to specific users (secure Amazon S3 buckets)
+
+
+// By default, all subnets within a VPC can communicate with each other, without needing any other resources or configuration.
+
+
+// A customer is migrating their on-premises data center to AWS and has bandwidth constraints. 
+   Which service allows them to transport exabyte-scale datasets into AWS in a cost-effective and secure manner?
+   * The Snow Family allows you to transfer large amounts of on-premises data to AWS using a physical device. 
+     Snowmobile transports multi-petabyte or exabyte-scale data.
+     
+// A customer would like to store secondary backup copies of on-premises data to the cloud. The customer is not concerned about an extra level of protection by geographic redundancy but requires rapid access to the data when it is needed. 
+   Which Amazon S3 storage class should be used as the lowest cost option with rapid access?
+   * S3 One Zone-Infrequent Access is designed for customers who want a lower cost option for infrequently accessed data but do not require the multiple Availability Zone data resilience model of the S3 Standard or S3 Standard-Infrequent Access storage classes. 
+     S3 One Zone-Infrequent Access provides millisecond access when the data is needed.
+     
+     
+// A customer has an on-premises 5-gigabyte Oracle database that needs to be migrated to AWS and converted to Aurora. 
+   The customer requires minimal downtime to the database. Which service is the best option for migration and conversion?
+   * DMS supports homogeneous migrations like Oracle to Oracle and heterogeneous migrations like Oracle to Aurora, with minimal downtime.
+   
+
+// As an IT support center team member, you begin receiving calls from users about problems they're experiencing with your company's AWS-based point-of-sale system. 
+   You want to begin your investigation by checking with AWS for any service alerts they may be communicating. Which AWS tool will you give you the information you seek?
+   * The AWS Personal Health Dashboard publishes alerts and remediation guidance when issues with AWS services arise. 
+     Notifications are also provided for scheduled events that may impact AWS customers.
+
+
+// Your sales operations group would like to perform monthly analyses on large amounts of sales activity. 
+  They want to be able to rank the performance of different territories, product categories, and sales channels. 
+  They will use visualization tools to generate graphical representations of the data. Which AWS service will provide the best solution for storing the sales data?
+  * Amazon Redshift provides the best solution for performing queries based on a predefined set of dimensions. 
+    Redshift organizes data for high performance based on user-specified distribution schemes. 
+    
+ // Business Support is the minimum plan that provides access to the full set of Trusted Advisor checks.
+
+
+// How can a customer on the Developer Support plan open a system impaired support case?
+* Customers on the Developer Support plan can submit support cases for account and billing questions, service limit increases, and technical support cases via email only.
+
+
+// The Business level support plan provides 1 hour or less response time support for production-level failures.
+
+// How can a customer with the Enterprise Support plan get help with billing and account questions?
+  * Use the AWS Support API to programmatically open a case with AWS Support.
+  * Contact the Support Concierge team.
