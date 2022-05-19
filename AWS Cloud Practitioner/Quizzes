@@ -7,3 +7,65 @@ Options available for reserved instances
  
  
  // Amazon Cost Explorer gives you more details about Amazon EC2 billing that took place three months ago
+ 
+ // Elasticity is the ability to acquire resources as you need them and release resources when you no longer need them. 
+    Think of Auto Scaling and adding and removing instances as needed.
+ 
+ // You're hosting a web application on EC2. After a few days of production usage, you notice the traffic to the web application far exceeds what was expected. 
+    You've decided to move to a larger instance type. What AWS principle does this represent?
+    * Vertical scaling - increasing the size and computing power of a single instance or node without increasing the number of nodes or instances.
+    
+    
+ // A company is receiving automated alerts notifying them that their only production EC2 instance is continuously reaching 100% CPU utilization. 
+    When this happens, customers cannot make purchases and receive error messages stating they should try again later because all the company's servers are busy.
+    What should the company implement to ensure their system is highly available?
+    * Horizontal scaling (scaling out) - adds or replaces EC2 instances automatically across AZs, based on need and changing demand, 
+                                         and is used in the design of systems with high availability.
+                                         
+                                         
+  // An Application Load Balancer automatically distributes incoming application traffic across multiple EC2 instances 
+     based on application variables like content type, user location, and more. The company in this case only has 1 EC2 instance.
+     
+ 
+ // A customer has noticed several of their AWS accounts were hacked and used to mine bitcoin. Who should the customer report the issue to?
+   * AWS Abuse Team
+   
+ // In order to improve fault tolerance, you would like to begin using services that provide fault tolerance. 
+    Which AWS services provide automatic replication across Availability Zones?
+   * DynamoDB
+   
+ // Trusted advisor - provides you with real-time guidance to help you provision your resources following AWS best practices.
+                    -  can help you optimize your AWS environment by giving recommendations to reduce cost, increase performance, and improve security
+ 
+ // A company wants to ensure all AWS accounts in their environment conform to company-wide policies. Which services can help?
+   * Organizations - centrally manage AWS resources under one umbrella. You can allocate resources and apply policies across accounts
+   * Control Tower -  helps you ensure your accounts conform to company-wide policies. Control Tower actually sits on top of Organizations.
+   
+ // Region - geographically area of the world that is a collection of logically grouped data centers (Availability Zones)
+ 
+ // A company is developing a new web application that has high availability requirements. How can the company increase availability when deploying the application?
+   * Deploy the application to span across multiple Availability Zones (AZs).
+   * Utilize a multi-Region deployment when deploying the application.
+   
+   
+// Your company would like to begin using Auto Scaling to add servers when CPU utilization reaches a certain threshold (e.g., 70%). 
+   Which service can you use to trigger actions when CPU utilization crosses the threshold?
+  * CloudWatch Alarms - to monitor CPU utilization and trigger further action. 
+         Further action could be an Auto Scaling group adding another EC2 instance and/or using SNS to notify team members of the occurrence.
+  * Simple Notification Service can be used with CloudWatch to notify team members when a CloudWatch event or alarm is triggered, 
+    but SNS is not monitoring resource utilization.
+    
+
+// An on-premises application requires a consistent, high-speed connection to the AWS Cloud environment that is better than an internet-based connection. 
+   Which AWS service can provide this connection?
+   * Direct Connect - private (bypasses the public internet), dedicated physical network connection from your on-premises data center to AWS. 
+                      Since the connection is private, it is extremely fast.
+                      
+// Elastic Load Balancing - evenly distribute incoming traffic across all their EC2 instances.
+
+// A developer doesn't want to hardcode the database password in their application code when developing a new application. 
+  Which service will help with accessing the password without having to hardcode it?
+  * Secrets Manager allows you to manage and retrieve secrets (passwords or keys).
+  
+  
+// A bucket access policy can be attached directly to an S3 bucket to limit access to specific users (secure Amazon S3 buckets)
