@@ -123,3 +123,25 @@ Options available for reserved instances
 // How can a customer with the Enterprise Support plan get help with billing and account questions?
   * Use the AWS Support API to programmatically open a case with AWS Support.
   * Contact the Support Concierge team.
+  
+  
+// I have some data that is not frequently accessed. But when requested within six months, the data needs to be available immediately. 
+ After six months, the data is not accessed but needs to be maintained for historical purposes. 
+ What is the best S3 storage class lifecycle available to me with the lowest possible cost?
+ * Store data the first 6 months in $3 One Zone ~ IA & move data to Glacier after that.
+ 
+ 
+ // I need to migrate millions of customers’ financial transaction data from the On-Premise Mainframe system to a non-relational database in AWS. 
+ The database should also provide good performance for data retrieval and data analytics. Which of the following Database services is the most suitable?
+ * Amazon DynamoDB
+ 
+ // To enable an application on an EC2 instance to perform some actions, the developer requires to grant access to the application for a few AWS resources. 
+ The developer plans to provide his credential to the instance. 
+ However, as the developer's credentials are long-term, the developer is looking for an alternate to reduce the security risk. 
+   What can the developer do in this scenario to enable applications on EC2 to get access to the required AWS resources temporarily?
+  * Use IAM Roles
+  
+  
+  // AWs Quick Starts - used to perform best practices aligned deployment of popular technologies on AWS, and eventually reduce the time taken for environment build and eventual usage of the environment
+  // Server-side and client-side encryptions are supported by S3 for data uploads
+  
